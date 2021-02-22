@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191.01 40.95"><defs><style>.cls-1,.cls-2,.cls-4,.cls-5{fill:#006837;}.cls-1{opacity:0.18;}.cls-2{opacity:0.19;}.cls-3{fill:none;stroke:#006837;stroke-miterlimit:10;stroke-width:2px;}.cls-4,.cls-5{font-size:36px;}.cls-4{font-family:Roboto-Medium, Roboto;font-weight:500;}.cls-5{font-family:Roboto-Light, Roboto;font-weight:300;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_2-2" data-name="Layer 2"><polyline class="cls-1" points="121.56 9.96 125.27 28.19 133.82 31.09 126.8 12.69 121.56 9.96"/><polyline class="cls-2" points="106.62 26.21 111 9.96 111 9.96 116.15 13.08 116.15 13.08 115.39 30.8 106.62 26.21"/><polyline class="cls-3" points="105.76 13.32 98.77 30.21 106.76 26.16 98.77 30.21 106.13 12.54 111.15 9.91 116.29 13.03 121.56 9.96 126.8 12.69 133.82 31.09 125.27 28.19 115.53 30.75 106.76 26.16 115.53 30.75 125.27 28.19"/><text class="cls-4" transform="translate(0 30.8)">better</text><text class="cls-5" transform="translate(133.55 31.19)">aps</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191.01 40.95">
+<style>@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-ThinItalic-webfont.eot');
+    src: url('Roboto-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-ThinItalic-webfont.woff') format('woff'),
+         url('Roboto-ThinItalic-webfont.ttf') format('truetype'),
+         url('Roboto-ThinItalic-webfont.svg#RobotoThinItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+}</style>
+
+    <defs>
+        <style>.cls-1,.cls-2,.cls-4,.cls-5{fill:#006837;}.cls-1{opacity:0.18;}.cls-2{opacity:0.19;}.cls-3{fill:none;stroke:#006837;stroke-miterlimit:10;stroke-width:2px;}.cls-4,.cls-5{font-size:36px;}.cls-4{font-family:Roboto-Medium, Roboto;font-weight:500;}.cls-5{font-family:Roboto-Light, Roboto;font-weight:300;}</style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_2-2" data-name="Layer 2">
+            <polyline class="cls-1" points="121.56 9.96 125.27 28.19 133.82 31.09 126.8 12.69 121.56 9.96"/>
+            <polyline class="cls-2" points="106.62 26.21 111 9.96 111 9.96 116.15 13.08 116.15 13.08 115.39 30.8 106.62 26.21"/>
+            <polyline class="cls-3" points="105.76 13.32 98.77 30.21 106.76 26.16 98.77 30.21 106.13 12.54 111.15 9.91 116.29 13.03 121.56 9.96 126.8 12.69 133.82 31.09 125.27 28.19 115.53 30.75 106.76 26.16 115.53 30.75 125.27 28.19"/>
+            <text class="cls-4" transform="translate(0 30.8)">better</text>
+            <text class="cls-5" transform="translate(133.55 31.19)">aps</text>
+        </g>
+    </g>
+</svg>
